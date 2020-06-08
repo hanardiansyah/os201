@@ -6,7 +6,10 @@ Jolan Tru! 🙏
 ```markdown
 My name is Hana Fadhila Ardiansyah
 I really and truly enjoy studying OS. 
+My hobby is building lego
 ```
+my favorite lego set
+<img src = "https://vignette.wikia.nocookie.net/princeofpersia/images/7/74/LEO_Prince_of_Persia_-_Battle_of_Almut_%282%29.jpg/revision/latest?cb=20140704023920&path-prefix=en">
 
 [URL](URLs/)
 
