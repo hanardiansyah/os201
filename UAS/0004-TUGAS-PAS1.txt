@@ -1,0 +1,36 @@
+Script started on Mon Jun  8 21:02:30 2020
+hana.fadhila@badak:~/UAS$ PS1="$ "
+$ echo $GitHubUser
+hanardiansyah
+$ echo $PSTAMP
+TMP1="$(date +%y%m%d-%H%M%S)"; TMP2="$(echo $TMP1-$GitHubUser-${PWD##*/}|sha1sum|cut -c1-4)"; echo "$TMP1-$TMP2-${PWD##*/}/> ";
+$ eval $PSTAMP
+200608-210324-0bf9-UAS/> 
+$ PS1="\$(eval \$PSTAMP)"
+200608-210332-c49b-UAS/> echo -e $CEKSAYA
+hanardiansyah ZCZCSCRIPTSTART 200608-190458 hanardiansyah 
+hanardiansyah hanardiansyah 200608-190527-b680-UAS/ 200608-190527 SEQOK SUMOK b6808847 
+hanardiansyah hanardiansyah 200608-190536-a96e-UAS/ 200608-190536 SEQOK SUMOK a96e9855 
+hanardiansyah hanardiansyah 200608-190540-179d-UAS/ 200608-190540 SEQOK SUMOK 179ddd0b 
+hanardiansyah hanardiansyah 200608-190557-1745-UAS/ 200608-190557 SEQOK SUMOK 17455aac 
+hanardiansyah ZCZCSCRIPTSTOP 200608-190604 SEQOK
+
+200608-210338-a79c-UAS/> echo -e $CEKSEBELA1
+hanardiansyah ZCZCSCRIPTSTART 200530-151150 hanifahrahma 
+hanardiansyah hanifahrahma 200530-151207-cbdf-UAS/ 200530-151207 SEQOK SUMOK cbdfdbd7 
+hanardiansyah hanifahrahma 200530-151211-7ebe-UAS/ 200530-151211 SEQOK SUMOK 7ebed360 
+hanardiansyah hanifahrahma 200530-151214-7e59-UAS/ 200530-151214 SEQOK SUMOK 7e590925 
+hanardiansyah hanifahrahma 200530-151222-726f-UAS/ 200530-151222 SEQOK SUMOK 726fc30d 
+hanardiansyah ZCZCSCRIPTSTOP 200530-151231 SEQOK
+
+200608-210416-b212-UAS/> echo -e $CEKSEBELA2
+hanardiansyah ZCZCSCRIPTSTART 200601-164104 hannajtm 
+hanardiansyah hannajtm 200601-164127-8e52-hanna.jannatunnaiim/ 200601-164127 SEQOK SUMOK 8e52c5fd 
+hanardiansyah hannajtm 200601-164136-a97f-hanna.jannatunnaiim/ 200601-164136 SEQOK SUMOK a97ff54f 
+hanardiansyah hannajtm 200601-164143-cbbd-hanna.jannatunnaiim/ 200601-164143 SEQOK SUMOK cbbde511
+hanardiansyah hannajtm 200601-164152-95e7-hanna.jannatunnaiim/ 200601-164152 SEQOK SUMOK 95e7dc5f
+hanardiansyah ZCZCSCRIPTSTOP 200601-164204 SEQOK
+200608-210440-9005-UAS/> exit
+exit
+
+Script done on Mon Jun  8 21:04:48 2020
