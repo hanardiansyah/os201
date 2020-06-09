@@ -1,3 +1,7 @@
+---
+permalink: /URLs/
+---
+
 # URL
 
 * [OS.VLSM.ORG](https://os.vlsm.org/)
