@@ -34,3 +34,4 @@ hanardiansyah ZCZCSCRIPTSTOP 200601-164204 SEQOK
 exit
 
 Script done on Mon Jun  8 21:04:48 2020
+
