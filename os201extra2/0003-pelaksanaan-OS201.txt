@@ -1,0 +1,15 @@
+Hana Fadhila Ardiansyah / OS A  /  1806141201 / hanardiansyah
+
+Catatan singkat pelaksanaan mata ajar OS selama semester ini.
+============================================================
+
+Pelaksanaan mata kuliah OS semester ini dilakukan dengan 2 metode, yaitu dengan melakukan pertemuan tatap muka
+seperti proses pembelajaran pada umumnya (offline) dan menggunakan metode online atau pembelajaran jarak jauh
+(PJJ) dikarenakan munculnya pandemi COVID-19. Mata kuliah OS sendiri mempunyai fasilitas demo untuk mendukung
+para mahasiswa agar dapat mempelajari setiap materi. Seluruh materi, informasi, dan latihan soal dapat diakses 
+di https://os.vlsm.org/. Kegiatan kami setiap minggunya adalah mencoba dan memahami demo.
+Selain itu, kami juga membuat sebuah memo berkala untuk mencatat apa saja yang telah kami pelajari untuk setiap
+minggunya. Untuk memperlancar komunikasi serta terselurkannya informasi, dibuat pula grup WhatsApp OS
+dengan dosen serta menyimpan dokumentasi hasil pembelajaran di kelas.
+Untuk pembelajaran jarak jauh (PJJ), pertemuan kelas diganti dengan diskusi pada forum di Scele CS.
+Dosen juga menyediakan video pembelajaran online untuk memperdalam pemahaman mahasiswa. 
