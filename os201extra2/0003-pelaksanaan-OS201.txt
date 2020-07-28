@@ -1,7 +1,7 @@
 Hana Fadhila Ardiansyah / OS A  /  1806141201 / hanardiansyah
 
 Catatan singkat pelaksanaan mata ajar OS selama semester ini.
-============================================================
+========================================================
 
 Pelaksanaan mata kuliah OS semester ini dilakukan dengan 2 metode, yaitu dengan melakukan pertemuan tatap muka
 seperti proses pembelajaran pada umumnya (offline) dan menggunakan metode online atau pembelajaran jarak jauh
@@ -13,3 +13,58 @@ minggunya. Untuk memperlancar komunikasi serta terselurkannya informasi, dibuat 
 dengan dosen serta menyimpan dokumentasi hasil pembelajaran di kelas.
 Untuk pembelajaran jarak jauh (PJJ), pertemuan kelas diganti dengan diskusi pada forum di Scele CS.
 Dosen juga menyediakan video pembelajaran online untuk memperdalam pemahaman mahasiswa. 
+
+Perbandingan pelaksanaan pengajaran sebelum dan sesudah UTS.
+====================================================
+Sebelum UTS
+- Pelaksanaan pengajaran mata kuliah OS dilakukan secara tatap muka di kelas
+- Membuat Memo tiap minggunya yang berisi materi pengajaran pada minggu
+- Melakukan tanya jawab di dalam kelas mengenai demo
+
+Sesudah UTS
+- Pelaksanaan pengajaran dilakukan secara online dan melalui video yang sudah tertera pada SCELE
+- Melakukan tanya jawab lewat forum scele.
+- Penjelasan demo disampaikan melalui Youtube
+
+Perbandingan pelaksanaan UTS OS dengan UTS lainnya.
+===========================================
+UTS OS
+- Soal terdiri dari isian dan esai
+- Pelaksanaan ujian berbasis kertas
+- Banyak soal dengan tipe programming. Selain itu, tidak ada soal tipe B/S atau PG U
+
+UTS lainnya - Soal mata kuliah Basis Data terdiri dari pilihan ganda dan esai
+- Soal mata kuliah Statistika dan Probabilitas terdiri dari esai
+- Pelaksanaan ujian berbasis scele
+- Untuk soal pilihan ganda dan benar atau salah berbentuk kuis
+- Untuk soal esai dikerjakan pada kertas, lalu di foto dan di upload
+- Untuk pelaksanaan UTS Advanced Programming, terdiri dari pilihan ganda, isian, dan mengedit program melalui GitLab.
+Pilihan ganda dan isian dilakukan di SCELE. Untuk sesi edit program, terdiri dari 3 sesi waktu
+- Untuk pelaksanaan UTS TBA, dilakukan melalui Aren. Soal berbentuk essay. Mahasiswa melakukan scan dan
+mengunggahnya ke server Aren. 
+
+Perbandingan pelaksanaan UAS OS dengan UAS lainnya.
+===========================================
+UAS OS
+- Dilaksanakan dalam beberapa tahap (PAS0-PAS5). Yang dimulai tanggal 8 Juni sampai 7 Juli 2020.
+- Setiap tahapnya memiliki waktu yang panjang, dibandingkan dengan UAS mata kuliah lainnya
+- Pengumuman terkait ujian diberikan melalui grup Whatsapp setiap harinya.
+- Metode pengumpulan yaitu dengan push file diperlukan ke repo github.
+- Ada beberapa tahap yang diharuskan untuk dikerjakan secara berkelompok
+- Pembentukkan kelompok dilakukan melalui github.
+- Soal diunggah di github dan harus di-decrypt terlebih dahulu.
+- Agar file yang diunggah ke repo tidak dapat dilihat oleh selain orang yang berhak untuk melihat, key enkripsi hanya dimiliki oleh peserta ujian pembuat file dan dosen
+
+UAS lainnya
+- Pelaksanaan UAS TBA menggunakan server aren. 
+Untuk untuk soal essay akan upload hasil scan ke tempat yang sudah di sediakan. 
+Sedangkan untuk soal pembuatan machine akan diterima oleh judge otomatis yang hasilnya akan keluar setelah ujian selesai.
+- Pelaksanaan UAS Statprob dilaksanakan dalam total 3 jam.
+Dibagi menjadi beberapa tahap yang masing masing tahap akan keluar 1-3 soal yang dikerjakan dengan kurun waktu
+15-25 menit. Dalam pengerjaan, diawasi dengan kamera oncam yang menyala dengan pembatasan penggunaan alat
+elektronik selain laptop.
+- Pelaksanaan UAS Basdat, tipe soal adalah pilihan ganda dan essay. 
+Dilaksanakan dengan total 3 jam pengerjaan pada scele.cs.ui.ac.id. Untuk soal pilihan ganda, nilai dapat langsung diketahui setelah submit.
+- Pelaksanaan UAS Advance Programming, tipe soal adalah pilihan ganda, essay, dan melengkapi program. 
+Ketiga tiganya dilaksanakan dengan menggunakan scele.cs.ui.ac.id dengan total waktu pengerjaan 3 jam.
+
