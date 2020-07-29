@@ -8,7 +8,7 @@ Kendala :
 - Kesulitan dalam memahami beberapa perintah yang diberikan
 - Mahasiswa lupa cara membuat key dan enkripsi
 - Tidak tahu cara melakukan beberapa perintah
-- Server badak mengalami down pada jam tertentuâ¨
+- Server badak mengalami down pada jam tertentu
 
 Kelebihan :
 - Cukup mudah dilakukan
