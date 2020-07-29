@@ -33,7 +33,8 @@ UTS OS
 - Pelaksanaan ujian berbasis kertas
 - Banyak soal dengan tipe programming. Selain itu, tidak ada soal tipe B/S atau PG U
 
-UTS lainnya - Soal mata kuliah Basis Data terdiri dari pilihan ganda dan esai
+UTS lainnya
+- Soal mata kuliah Basis Data terdiri dari pilihan ganda dan esai
 - Soal mata kuliah Statistika dan Probabilitas terdiri dari esai
 - Pelaksanaan ujian berbasis scele
 - Untuk soal pilihan ganda dan benar atau salah berbentuk kuis
@@ -41,7 +42,7 @@ UTS lainnya - Soal mata kuliah Basis Data terdiri dari pilihan ganda dan esai
 - Untuk pelaksanaan UTS Advanced Programming, terdiri dari pilihan ganda, isian, dan mengedit program melalui GitLab.
 Pilihan ganda dan isian dilakukan di SCELE. Untuk sesi edit program, terdiri dari 3 sesi waktu
 - Untuk pelaksanaan UTS TBA, dilakukan melalui Aren. Soal berbentuk essay. Mahasiswa melakukan scan dan
-mengunggahnya ke server Aren. 
+mengunggahnya ke server Aren.
 
 Perbandingan pelaksanaan UAS OS dengan UAS lainnya.
 ===========================================
@@ -67,4 +68,3 @@ elektronik selain laptop.
 Dilaksanakan dengan total 3 jam pengerjaan pada scele.cs.ui.ac.id. Untuk soal pilihan ganda, nilai dapat langsung diketahui setelah submit.
 - Pelaksanaan UAS Advance Programming, tipe soal adalah pilihan ganda, essay, dan melengkapi program. 
 Ketiga tiganya dilaksanakan dengan menggunakan scele.cs.ui.ac.id dengan total waktu pengerjaan 3 jam.
-
