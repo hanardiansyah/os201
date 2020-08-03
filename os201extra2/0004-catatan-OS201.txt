@@ -3,64 +3,120 @@ Hana Fadhila Ardiansyah / OS A  /  1806141201 / hanardiansyah
 1. Catatan tambahan untuk pelaksanaan:
 =====================================
 a. Persiapan UAS
-
 Kendala :
-- Kesulitan dalam memahami beberapa perintah yang diberikan
-- Mahasiswa lupa cara membuat key dan enkripsi
-- Tidak tahu cara melakukan beberapa perintah
-- Server badak mengalami down pada jam tertentu
+- Kesulitan dalam memahami beberapa perintah yang diberikan.
+- Mahasiswa lupa cara membuat key dan enkripsi.
+- Tidak tahu cara melakukan beberapa perintah.
+- Server badak mengalami down pada jam tertentu.
 
 Kelebihan :
-- Cukup mudah dilakukan
-- Terdapat langkah-langkah yang mudah dipahami
-- Bobot nilai yang diberikan sangat membantu
-- Mudah diakses karena penjelasan berada di Scele CS
-- Waktu yang diberikan cukup lama
-- Terdapat log untuk memantau kesalahan
-- Mempermudah mahasiswa untuk melakukan tahap selanjutnya 
-- Mahasiswa menjadi lebih paham terkait dengan pembuatan script
+- Cukup mudah dilakukan.
+- Terdapat langkah-langkah yang mudah dipahami.
+- Bobot nilai yang diberikan sangat membantu.
+- Mudah diakses karena penjelasan berada di Scele CS.
+- Waktu yang diberikan cukup lama.
+- Terdapat log untuk memantau kesalahan.
+- Mempermudah mahasiswa untuk melakukan tahap selanjutnya.
+- Mahasiswa menjadi lebih paham terkait dengan pembuatan script.
 
 Kekurangan :
-- Kurangnya penjelasan mengenai tujuan persiapan dan gambaran pelaksanaan UAS
-- Langkah pengerjaan ditulis bergabung dengan penjelasan persiapan sehingga terlihat terlalu padat
+- Kurangnya penjelasan mengenai tujuan persiapan dan gambaran pelaksanaan UAS.
+- Langkah pengerjaan ditulis bergabung dengan penjelasan persiapan sehingga terlihat terlalu padat.
 - Mahasiswa pada tahap ini cenderung melakukan copy paste langsung dari badak ke github dan tidak melakukan push 
-sehingga dapat menyebabkan error
+sehingga dapat menyebabkan error.
 
 b. Tahap 1
 Kendala :
-- Kemampuan penggunaan terminal pada linux yang kurang menghambat proses pengerjaan
-- Kemampuan untuk pembuatan script yang menurut saya sudah cukup advanced yang sangat dibutuhkan disini cukup menghambat proses pengerjaan
-- Terjadi race condition pada saat absen 
+- Kemampuan penggunaan terminal pada linux yang kurang menghambat proses pengerjaan.
+- Kemampuan untuk pembuatan script yang menurut saya sudah cukup advanced yang sangat dibutuhkan disini cukup menghambat proses pengerjaan.
+- Terjadi race condition pada saat absen.
 
 Kelebihan :
-- Adanya dokumentasi yang diberikan 
+- Adanya dokumentasi yang diberikan.
 - Adanya contoh mengenai github pages yang telah memenuhi syarat. Yaitu, pada github cbkadal.
 - Menjadi tahu bagaimana caranya scripting tingkat lanjut, namun bagusnya lagi hal ini tidak menjadi urgensi mahasiswa karena 
 mahasiswa tetap dapat menyelesaikan tahap ini dengan melakukan pengecekan secara manual.
 - Menjadi tahu bagaimana membuat endpoint baru untuk url pada github pages.
 
 Kekurangan :
-- Kurang penjelasan terkait dengan soal yang dimaksud, beberapa seperti contoh SEQNO dan SUMNO yang tidak terdapat pada soal. 
+- Kurang penjelasan terkait dengan soal yang dimaksud, beberapa seperti contoh SEQNO dan SUMNO yang tidak terdapat pada soal 
 Hal ini baru dapat diketahui setelah terdapat mahasiswa yang menanyakan melalui forum di scele.
-- Deskripsi tugas seringkali berubah atau revisi selama proses ujian berlangsung
+- Deskripsi tugas seringkali berubah atau revisi selama proses ujian berlangsung.
 
 c. Tahap 2
 Kendala :
 - Perubahan yang cukup besar antara tahap 1 dengan tahap 2 yang ternyata tahap 2 jauh lebih rumit dibandingkan tahap 1, membuat mahasiswa kebingungan.
-- Pada awal pengerjaan sangat terhambat pada implementasi mmap untuk multithreading yang tidak ada pada weekly demo
-- Belum terbiasa membuat program dengan bahasa C
-- Terjadi race condition saat pengumpulan berkas dan absen
+- Pada awal pengerjaan sangat terhambat pada implementasi mmap untuk multithreading yang tidak ada pada weekly demo.
+- Belum terbiasa membuat program dengan bahasa C.
+- Terjadi race condition saat pengumpulan berkas dan absen.
 
 Kelebihan :
-- Menjadi lebih tahu bagaimana semafor bekerja untuk menghindari terjadinya race condition dalam mengakses memori yang sama bersamaan
-- Menjadi lebih tahu bagaimana penggunaan semafor biasa dengan semafor untuk mutex
-- Menjadi lebih tahu bagaimana cara memetakan sebuah file ke memory di bahasa C dengan menggunakan mmap
-- Tugas dilakukan secara berkelompok sehingga memudahkan mahasiswa untuk diskusi
+- Menjadi lebih tahu bagaimana semafor bekerja untuk menghindari terjadinya race condition dalam mengakses memori yang sama bersamaan.
+- Menjadi lebih tahu bagaimana penggunaan semafor biasa dengan semafor untuk mutex.
+- Menjadi lebih tahu bagaimana cara memetakan sebuah file ke memory di bahasa C dengan menggunakan mmap.
+- Tugas dilakukan secara berkelompok sehingga memudahkan mahasiswa untuk diskusi.
 
 Kekurangan :
 - Memahami soal lebih susah dibandingkan memahami langsung dengan melihat programnya, penjelasan yang dijelaskan 
 di soal seharusnya dapat lebih jelas tanpa melihat ke program.
 - Beberapa seperti “TIME[16]”, nilai dari 16 diperoleh darimana kurang jelas, baru menjadi jelas setelah terdapat salah satu 
-peserta ujian yang menanyakan melalui forum di scele
-- Mekanisme pembagian kelompok yang kurang teratur
-- Deskripsi tugas seringkali berubah atau revisi selama proses ujian berlangsung
+peserta ujian yang menanyakan melalui forum di Scele.
+- Mekanisme pembagian kelompok yang kurang teratur.
+- Deskripsi tugas seringkali berubah atau revisi selama proses ujian berlangsung.
+
+c. Tahap 3
+Kendala : 
+- Hanya beberapa orang yang mengerti dan juga aktif dalam kelompok karena sudah dikelompokan berdasarkan status.
+- Sulit untuk berkoordinasi dengan anggota kelompok. Kadang ada yang sulit dihubungi, menyerah, atau ada keperluan lainnya.
+- Kurang memahami materi dan sulit mengimplementasikan hal yg sudah dipelajari.
+- Sudah mulai kehilangan motivasi untuk mengerjakan, karena beberapa anggota kelompok sulit dihubungi.
+- Kelompok yang kurang bisa diajak kerja sama karena semuanya tidak ada yang memahami materi.
+
+Kelebihan :
+- Mahasiswa sudah terbiasa dengan tahap 2. Karena mirip dengan tahap 2, maka sudah familiar sehingga lebih mudah untuk mengerjakan tahap 3.
+- Mahasiswa dengan status TERM3 deadline waktunya panjang dan soalnya tidak beda jauh dengan tugas 2.
+- Mendapatkan ilmu yang lebih dalam lagi mengenai semaphore.
+
+Kekurangan :
+- Revisi soal yang keluar saat berjalannya ujian dapat membingungkan.
+- Sama seperti tahap 2 terkadang ada bagian yang penting tapi ambigu/kurang ditekankan, seperti penamaan file dan sebagainya.
+- Hanya satu file yang diedit sehingga sulit dalam pembagian tugas.
+- Batas kurang jelas antara keterangan soal yang kurang jelas dengan "kreativitas masing masing" sehingga menimbulkan perdebatan.
+- Kurang terlihat batasan tugas tiap anggota di dalam kelompok.
+
+d. Tahap 4
+Kendala : 
+- Ada beberapa mahasiswa yang belum cukup mengerti materi yang ditanyakan pada tahap ini.
+- Adanya masalah koordinasi revisi sehingga ada perbedaan versi kode.
+- File-file di folder uas-pribadi dan uas-bersama yang harus terus disesuaikan cukup membingungkan dan membuat beberapa mahasiswa 
+harus terus-menerus cross check dengan repository cbkadal.
+
+Kelebihan : 
+- Menjadi mengerti cara menggunakan synchronous semaphore.
+- Tersedianya penjelasan yang mendetail mengenai maksud dari soal. 
+- Bobot pengerjaan sesuai dengan materi dan waktu.
+- Dilakukan secara berkelompok sehingga dapat berdiskusi. 
+
+Kekurangan : 
+- Hanya ada satu file yang perlu diedit sehingga pembagian tugas sulit.
+- Requirement soal agak kurang dijabarkan. Di soal, dikatakan bisa menggunakan implementasi sendiri, 
+tetapi jika implementasinya beda, nilai akan dikurangi.
+- Lompatan materi yang lumayan besar dari tahap sebelumnya.
+
+e. Tahap 5
+Kendala :
+- Kurang pemahaman tentang FUSE.
+- Kurang mengerti perintah soal dan sulit memahami berkas-berkas yang diberikan.
+
+Kelebihan :
+- Mahasiswa menjadi lebih tahu salah satu implementasi FUSE.
+- Termasuk mudah apabila sudah mengerti materi FUSE.
+- Sudah ada dokumentasi terkait soal.
+
+Kekurangan :
+- Kurang penjelasan teknis.
+- Dokumentasi terkait soal sulit dimengerti.
+- Perubahan jenis tugas dari kelompok menjadi individu di mana pada tahap 2 - 4 merupakan tugas kelompok.
+- Waktu pengerjaan singkat.
+- Perubahan bobot nilai menjadi bergantung pada hasil pekerjaan.
+- Sumber belajar hanya materi.
