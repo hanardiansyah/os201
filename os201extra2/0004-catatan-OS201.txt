@@ -190,3 +190,71 @@ PGP atau GnuPG. File tersebut berisi pesan yang ditandatangani secara digital da
 disandikan sebagai teks. File ASC juga menyertakan kunci sebagai teks yang ditandatangani jelas, yang dapat diverifikasi menggunakan metode otentikasi. Oleh karena
 itu SHA1SUM.asc merupakan berkas dimana berisi sebuah hasil enkripsi SHA1SUM yang nantinya dapat diverifikasi dan didekripsi (oleh yang berhak) untuk melihat
 informasi asli yang ada.
+
+3. Bahasan dari sudut pandang peserta OS201, berkas berikut ini:
+https://rahmatm.samik-ibrahim.vlsm.org/2020/07/exam-from-home-pertama-kali.html
+
+a. Tantangan
+Modifikasi terhadap tata cara pengumpulan hasil ujian berhasil dilakukan sehingga membuat ujian menjadi lebih sulit. Kesalahan prosedur yang dilakukan peserta 
+menjadi salah satu kendala yang banyak dialami peserta. Hal ini menyebabkan peserta yang seharusnya dapat lolos suatu tahap menjadi berhenti di tahap tersebut 
+walaupun diberi kesempatan mengulang tahap yang gagal. Terlalu banyak prosedural juga membuat semakin lama waktu peserta untuk mengikuti prosedur tersebut 
+dibandingkan mengerjakan soal yang diberikan. 
+
+b. Perangkat pendukung
+Rata-rata peserta hanya mengetahui fungsi serta cara memakai Git dan Github. Untuk perangkat pendukung scripting, GNUPG, dan sha1sum peserta tidak familiar 
+sehingga harus mempelajari terlebih dahulu. Mayoritas peserta hanya mengikuti langkah-langkah yang diberikan, namun tidak mengerti maksud dari langkah-langkah 
+tersebut.
+
+c. Problem
+- MS Windows
+  Peserta tidak biasa dalam penggunaan sistem di badak. Oleh karena itu, peserta banyak yang melakukan di media lain yang memiliki format text berbeda dengan 
+  sistem di badak. 
+
+- Github
+	Pada saat melakukan push, kadang terjadi secara bersamaan dengan peseta ujian lain sehingga harus berulang-ulang melakukan push. Selain itu, cukup banyak 
+  mahasiswa yang awalnya melakukan pembuatan berkas secara langsung dengan melakukan copy paste ke Github dan tidak menggunakan metode push melalui badak sehingga 
+  menyebabkan error. 
+  
+- Github  Page
+	Terkadang mahasiswa harus menunggu cukup lama agar perubahan yang dilakukan pada Github page terlihat, maka dari itu peserta menjadi kebingungan apakah
+  Github pagenya belum ke “load” atau salah pada code yang ditulis. 
+
+- GNUPG
+  Terdapat penggunaan versi gpg yang berbeda sehingga membuat peserta bingung dan hanya mengikuti instruksi yang berikan tanpa mengerti perbedaan fungsi dari versi
+  gpg yang digunakan. Misalnya untuk gpg --list-secret-keys memberikan output, tetapi untuk gpg2 --list-secret-keys tidak memberikan output. Selain itu, beberapa 
+  peserta juga mengalami kesalahan pada berkas 0000-mypub.txt, karena peserta membuat berkas secara langsung di github dengan melakukan copy paste isi berkas dari
+  badak sehingga ada beberapa bagian yang terpotong dan tidak terbaca oleh sistem.
+
+- SHA1SUM dan SHA1SUM.AS
+  Mayoritas peserta hanya mengikuti contoh tanpa memahami terlebih dahulu penggunaan gpg dan sha1sum. sha1sum dan sha1sum.asc perlu dibuat ulang setiap ada   
+  perubahan. Beberapa peserta mengalami kesalahan pada sha1sum dan sha1sum.asc karena kurang mengerti kegunaan keduanya sehingga tidak membuat ulang setiap ada 
+  perubahan. 
+
+- SCELE
+  Terlalu banyak thread pada forum di Scele terkadang membuat peserta kebingungan untuk mencari suatu informasi pada forum. 
+  
+- WhatsApp
+  Terkadang pengumuman di WhatsApp Group tertimbun oleh pesan lainnya sehingga bisa saja ada informasi penting lainnya yang terlewatkan.
+
+- pribadi/os201
+  Terkadang salah melakukan push file. Misalnya file yang seharusnya dipush dan dikumpulkan di github bersama tetapi malah dipush ke github pribadi. 
+  
+- bersama/os201
+  Terkadang terjadi race condition pada saat melakukan push ke github bersama, sehingga harus melakukan pull berulang kali.
+
+- Youtube
+  Materi yang disampaikan mudah diterima, namun kurang banyak contoh demo yang diberikan. Contoh demo akan sangat berguna untuk pemahaman saat pelaksanaan UAS 
+  seperti pada mata kuliah OS genap 2020. 
+
+- Email
+  Sejauh ini tidak ada problem dalam penggunaan email, penggunaan email sudah tepat untuk permasalahan penting yang bukan terkait materi pembelajaran. Penggunaan 
+  subjek [HELP] juga sangat membantu untuk menunjukkan bahwa email tersebut penting dan dapat membedakan dengan email lainnya.
+
+- Scripting
+  Mayoritas peserta tidak memahami maksud dari langkah-langkah scripting sebelumnya sehingga peserta hanya mengikuti langkah-langkah yang diberikan dengan cara 
+  copy and paste. 
+  
+- Race Condition
+  Race condition dapat terjadi ketika absen yang dilakukan melalui github. Race condition terjadi terutama pada saat absen UAS OS karena waktu 
+  absen yang cukup sempit.
+  
