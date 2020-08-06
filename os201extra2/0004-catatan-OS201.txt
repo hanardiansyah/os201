@@ -226,7 +226,7 @@ c. Problem
   peserta juga mengalami kesalahan pada berkas 0000-mypub.txt, karena peserta membuat berkas secara langsung di github dengan melakukan copy paste isi berkas dari
   badak sehingga ada beberapa bagian yang terpotong dan tidak terbaca oleh sistem.
 
-- SHA1SUM dan SHA1SUM.AS
+- SHA1SUM dan SHA1SUM.ASC
   Mayoritas peserta hanya mengikuti contoh tanpa memahami terlebih dahulu penggunaan gpg dan sha1sum. sha1sum dan sha1sum.asc perlu dibuat ulang setiap ada   
   perubahan. Beberapa peserta mengalami kesalahan pada sha1sum dan sha1sum.asc karena kurang mengerti kegunaan keduanya sehingga tidak membuat ulang setiap ada 
   perubahan. 
@@ -258,4 +258,3 @@ c. Problem
 - Race Condition
   Race condition dapat terjadi ketika absen yang dilakukan melalui github. Race condition terjadi terutama pada saat absen UAS OS karena waktu 
   absen yang cukup sempit.
-  
