@@ -78,3 +78,19 @@ Ketiga tiganya dilaksanakan dengan menggunakan scele.cs.ui.ac.id dengan total wa
 Untuk soal pilihan ganda, nilai dapat langsung diketahui setelah submit.
 - Untuk pelaksanaan UAS Anum, tipe soal adalah essay dan membuat program. Soal essay dikelompokkan dengan topik masing-masing dengan 
 tiap kelompok soal terdiri atas banyak soal.
+
+
+Perbandingan pelaksanaan UTS mata kuliah lain dengan UAS mata kuliah tersebut.
+==============================================================================
+Untuk mata kuliah lain selain OS, cenderung mirip pada pelaksanaan UTS dan UAS nya. Hal ini dikarenakan UTS dan UAS mata kuliah tersebut telah berbentuk online. 
+Berikut adalah perbedaan yang menurut saya tidak terlalu signifikan :
+
+- Pada pelaksanaan UTS Statprob, soal untuk setiap anak adalah sama. Tetapi, pada saat UAS terdapat beberapa versi soal dan pembagian soal kepada mahasiswa dapat 
+menggunakan digit digit pada NPM mahasiswa, sehingga tiap mahasiswa hanya sedikit yang mendapat soal yang sama. Hal ini menurut saya baik untuk mengurangi tingkat 
+kecurangan saat pelaksanaan ujian.
+
+Saran Pelaksanaan Mata Kuliah OS
+================================
+Demo, materi, dan tanya jawab dapat dilakukan dengan memanfaatkan penggunaan Zoom atau Google Meets. Salah satu contohnya mata kuliah Statistika dan Probabilitas 
+yang mengadakan zoom meeting setiap waktu perkuliahan dan melakukan perekaman video. Selain itu, mata kuliah Basis Data menggunakan Google Meets untuk mengadakan 
+sesi tanya jawab.
